@@ -9,5 +9,7 @@
 	<modules>
 		<module>application</module>
 		<module>domain</module>
+		<module>repository</module>
+		<module>infraestrutura</module>
 	</modules>
 </project>

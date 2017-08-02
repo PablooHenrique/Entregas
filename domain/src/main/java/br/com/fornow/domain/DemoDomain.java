@@ -1,7 +1,7 @@
 package br.com.fornow.domain;
 
 public class DemoDomain {
-	private String nome = "Hello Word Pablo";
+	private String nome = "Hello Word Pablo ++";
 
 	public String getNome() {
 		return nome;

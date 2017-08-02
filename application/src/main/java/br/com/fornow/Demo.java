@@ -1,4 +1,4 @@
-package br.com.fornow.application;
+package br.com.fornow;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
